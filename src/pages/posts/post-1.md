@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My First Blog Post'
-pubDate: '22-12-2024'
+pubDate: 2024-12-22
 description: 'This is the first post of my new Astro blog.'
 image:
     url: 'https://docs.astro.build/assets/rose.webp'
